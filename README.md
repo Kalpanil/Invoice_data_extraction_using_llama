@@ -52,6 +52,9 @@ Start the Streamlit app:
 streamlit run app.py
 ```
 
+## Output ScreenShots
+![image](https://github.com/user-attachments/assets/4beb1227-b475-41d5-88d1-ed764cbc8713)
+
 ## Usage
 1. **Upload PDFs**: Select and upload scanned invoice PDFs.
 2. **Process Invoices**: Click "Process Selected PDFs" to extract invoice details.
