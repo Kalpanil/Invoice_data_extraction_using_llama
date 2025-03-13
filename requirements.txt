@@ -21,7 +21,7 @@ MarkupSafe==3.0.2
 narwhals==1.30.0
 numpy==2.2.3
 ollama==0.4.7
-opencv-python==4.11.0.86
+opencv-python-headless
 packaging==24.2
 pandas==2.2.3
 pdf2image==1.17.0
